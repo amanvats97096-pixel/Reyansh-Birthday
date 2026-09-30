@@ -1,0 +1,261 @@
+{
+  "generatedAt": "2026-09-30T12:14:05.744Z",
+  "totalPhotos": 23,
+  "realPhotosCount": 23,
+  "unsupportedFiles": [],
+  "photos": [
+    {
+      "id": "photo-1",
+      "rawPath": "placeholders/Image1.jpeg",
+      "src": "/placeholders/Image1.jpeg",
+      "alt": "Reyansh photo 1",
+      "caption": "Precious moment with Reyansh #1",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-2",
+      "rawPath": "placeholders/Image2.jpeg",
+      "src": "/placeholders/Image2.jpeg",
+      "alt": "Reyansh photo 2",
+      "caption": "Precious moment with Reyansh #2",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-3",
+      "rawPath": "placeholders/Image3.jpeg",
+      "src": "/placeholders/Image3.jpeg",
+      "alt": "Reyansh photo 3",
+      "caption": "Precious moment with Reyansh #3",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-4",
+      "rawPath": "placeholders/Image4.jpeg",
+      "src": "/placeholders/Image4.jpeg",
+      "alt": "Reyansh photo 4",
+      "caption": "Precious moment with Reyansh #4",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-5",
+      "rawPath": "placeholders/Image5.jpeg",
+      "src": "/placeholders/Image5.jpeg",
+      "alt": "Reyansh photo 5",
+      "caption": "Precious moment with Reyansh #5",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-6",
+      "rawPath": "placeholders/Image6.jpeg",
+      "src": "/placeholders/Image6.jpeg",
+      "alt": "Reyansh photo 6",
+      "caption": "Precious moment with Reyansh #6",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-7",
+      "rawPath": "placeholders/Image7.jpeg",
+      "src": "/placeholders/Image7.jpeg",
+      "alt": "Reyansh photo 7",
+      "caption": "Precious moment with Reyansh #7",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-8",
+      "rawPath": "placeholders/Image8.jpeg",
+      "src": "/placeholders/Image8.jpeg",
+      "alt": "Reyansh photo 8",
+      "caption": "Precious moment with Reyansh #8",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-9",
+      "rawPath": "placeholders/Image9.jpeg",
+      "src": "/placeholders/Image9.jpeg",
+      "alt": "Reyansh photo 9",
+      "caption": "Precious moment with Reyansh #9",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-10",
+      "rawPath": "placeholders/Image10.jpeg",
+      "src": "/placeholders/Image10.jpeg",
+      "alt": "Reyansh photo 10",
+      "caption": "Precious moment with Reyansh #10",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-11",
+      "rawPath": "placeholders/Image11.jpeg",
+      "src": "/placeholders/Image11.jpeg",
+      "alt": "Reyansh photo 11",
+      "caption": "Precious moment with Reyansh #11",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-12",
+      "rawPath": "placeholders/Image12.jpeg",
+      "src": "/placeholders/Image12.jpeg",
+      "alt": "Reyansh photo 12",
+      "caption": "Precious moment with Reyansh #12",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-13",
+      "rawPath": "placeholders/Image13.jpeg",
+      "src": "/placeholders/Image13.jpeg",
+      "alt": "Reyansh photo 13",
+      "caption": "Precious moment with Reyansh #13",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-14",
+      "rawPath": "placeholders/Image14.jpeg",
+      "src": "/placeholders/Image14.jpeg",
+      "alt": "Reyansh photo 14",
+      "caption": "Precious moment with Reyansh #14",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-15",
+      "rawPath": "placeholders/Image15.jpeg",
+      "src": "/placeholders/Image15.jpeg",
+      "alt": "Reyansh photo 15",
+      "caption": "Precious moment with Reyansh #15",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-16",
+      "rawPath": "placeholders/Image16.jpeg",
+      "src": "/placeholders/Image16.jpeg",
+      "alt": "Reyansh photo 16",
+      "caption": "Precious moment with Reyansh #16",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-17",
+      "rawPath": "placeholders/Image17.jpeg",
+      "src": "/placeholders/Image17.jpeg",
+      "alt": "Reyansh photo 17",
+      "caption": "Precious moment with Reyansh #17",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-18",
+      "rawPath": "placeholders/Image18.jpeg",
+      "src": "/placeholders/Image18.jpeg",
+      "alt": "Reyansh photo 18",
+      "caption": "Precious moment with Reyansh #18",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-19",
+      "rawPath": "placeholders/Image19.jpeg",
+      "src": "/placeholders/Image19.jpeg",
+      "alt": "Reyansh photo 19",
+      "caption": "Precious moment with Reyansh #19",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-20",
+      "rawPath": "placeholders/Image20.jpeg",
+      "src": "/placeholders/Image20.jpeg",
+      "alt": "Reyansh photo 20",
+      "caption": "Precious moment with Reyansh #20",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-21",
+      "rawPath": "placeholders/Image21.jpeg",
+      "src": "/placeholders/Image21.jpeg",
+      "alt": "Reyansh photo 21",
+      "caption": "Precious moment with Reyansh #21",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-22",
+      "rawPath": "placeholders/Image22.jpeg",
+      "src": "/placeholders/Image22.jpeg",
+      "alt": "Reyansh photo 22",
+      "caption": "Precious moment with Reyansh #22",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "photo-23",
+      "rawPath": "placeholders/Image23.jpeg",
+      "src": "/placeholders/Image23.jpeg",
+      "alt": "Reyansh photo 23",
+      "caption": "Precious moment with Reyansh #23",
+      "objectPosition": "center center",
+      "isPlaceholder": false,
+      "width": 800,
+      "height": 1000
+    }
+  ]
+}
